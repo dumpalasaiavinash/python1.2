@@ -1,7 +1,7 @@
 import datetime
 import os
 import time
-
+import random
 import speech_recognition as sr
 from gtts import gTTS
 r = sr.Recognizer()
